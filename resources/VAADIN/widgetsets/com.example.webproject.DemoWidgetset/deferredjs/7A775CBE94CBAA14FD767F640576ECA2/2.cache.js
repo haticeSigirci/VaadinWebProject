@@ -1,0 +1,1 @@
+$wnd.com_example_webproject_DemoWidgetset.runAsyncCallback2('f8(1567,1,NRd);_.vc=function l8b(){sVb((!lVb&&(lVb=new xVb),lVb),this.a.d)};QLd(Th)(2);\n//# sourceURL=com.example.webproject.DemoWidgetset-2.js\n')

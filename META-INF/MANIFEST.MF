@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: WebProject
+Bundle-SymbolicName: WebProject
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.example.webproject
+Import-Package: com.example.webproject,
+ junit.framework,
+ org.apache.commons.codec.language.bm;version="1.6.0"
